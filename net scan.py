@@ -1,6 +1,5 @@
 import tkinter as tk
-from tkinter import ttk, messagebox
-import socket, subprocess, platform, threading, time, random, math
+import socket, subprocess, threading, time, random, math
 import psutil
 
 def matrix_effect():
